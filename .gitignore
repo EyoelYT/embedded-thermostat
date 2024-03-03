@@ -1,0 +1,7 @@
+# Ignore specific files
+/settings/
+/MCU-Image/
+/targetConfigs/
+/userFiles/
+*.ccsproject
+*.cproject
